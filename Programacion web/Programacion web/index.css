@@ -1,0 +1,53 @@
+body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+
+}
+
+*{
+
+    background-color: black;
+}
+
+select {
+    padding: 10px;
+    color: white;
+}
+
+
+fieldset{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 15%;
+}
+
+fieldset select{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+
+    color: white;
+    
+}
+
+input{
+    margin-top: 20px;
+    color: white;
+    padding: 2px;
+    border-width: 3px;
+    border-color: white;
+}
+
+.enviar{
+
+    margin-top: 20px;
+    color: white;
+    padding: 2px;
+    border-width: 2px;
+    border-color: white;
+
+}
